@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "cruise-family-trip",
+  "description": "适合家庭出游的邮轮产品推荐，满足全家人的旅行需求和乐趣。"
+}
